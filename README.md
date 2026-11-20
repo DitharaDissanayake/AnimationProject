@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Don't Forget Your Roots is a 2D animated short story created using Adobe Animate. It presents an emotional story about a young girl who receives a banana plant from a kind woman and learns to earn money by taking care of it.
+Don't Forget Your Roots is a 2D animated short story created using Adobe Animate. It presents an emotional story about a young girl who receives a banana plant from a kind woman and learns to earn money by taking care of it.
 
 The animation highlights the importance of gratitude, responsibility, and remembering the things that helped us in life.
 
