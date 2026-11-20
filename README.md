@@ -38,11 +38,10 @@ This story reminds us that:
 
 ## Project Contents
 
-- `scene1.fla` – Animation source file
-- `scene1.swf` – Exported animation file
+- `scene.fla` – Animation source file
+- `scene.swf` – Exported animation file
 - `Images/` – Illustration and graphic assets
-- Audio files – Sound effects, background audio, and voice recordings
-- `New/` – Additional animation scene source and exported files
+
 
 ## How to Open the Project
 
